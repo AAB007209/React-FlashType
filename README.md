@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# A Simple React Project - "FlashType"
+Check your Typing speed.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
