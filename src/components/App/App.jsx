@@ -6,7 +6,7 @@ import Nav from '../NavBar/Nav';
 import './App.css';
 import { SAMPLE_PARAGRAPHS } from "./../../data/sampleParagraph";
 
-const TotalTime = 2;
+const TotalTime = 60;
 const DefaultState = {
     selectedParagraph: "",
     timerStarted: false,
